@@ -1,0 +1,4 @@
+•	Click&Catch is a simple game.
+•	There will be a text box containing the text ClickMe.
+•	When the player tries to click it, the box disappears and appears in some random locations.
+•	This is a small game for kids.
